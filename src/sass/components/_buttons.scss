@@ -21,6 +21,10 @@
   }
 }
 
+.cv{
+  text-transform: uppercase;
+}
+
 /* Hero Style */
 .cta-btn--hero {
   @include supportColorForIE11();
