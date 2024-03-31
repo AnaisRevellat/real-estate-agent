@@ -13,11 +13,11 @@
 89/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist/recognition_app.58a61558.jpg1711906110870032480 0
 78/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist/hxa.194bd6be.jpeg1711552591407129000 0
 82/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist/index.975ef6c8.js.map1711918403552409861 0
-79/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist/index.4a508c1d.css1711918630024280795 0
-83/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist/index.4a508c1d.css.map1711918630024280795 0
+79/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist/index.4a508c1d.css1711918884404042086 0
+83/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist/index.4a508c1d.css.map1711918884408042082 0
 82/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist/profile3.2b6e2b96.jpg1706632830265448000 0
 95/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist/background_generator2.e43dcf2a.png1706703648630039000 0
-60/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist1711918630024280795 1
+60/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/dist1711918884408042082 1
 91/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/node_modules/path-type/package.json1706630978144143000 0
 87/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/node_modules/path-type/index.js1706630978144143000 0
 88/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/node_modules/path-type/readme.md1706630978144143000 0
@@ -4396,7 +4396,7 @@
 102/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/node_modules/cosmiconfig/dist/loaders.d.ts.map1706630975388145000 0
 116/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/node_modules/@parcel/transformer-sass/lib/SassTransformer.js1706630976828144000 0
 151/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/sub/a1706630977404144000 1
-84/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/src/sass/sections/_hero.scss1711918627636282634 0
+84/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/src/sass/sections/_hero.scss1711918881564045148 0
 81/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/node_modules/terser/tools1706630975484145000 1
 89/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/node_modules/@parcel/packager-svg1706630977184144000 1
 160/home/hexia/ANAIS_REVELLAT_AGENT_IMMOBILIER/simplefolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/sub/a/index.js1706630977404144000 0
